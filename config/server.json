@@ -1,0 +1,6 @@
+{
+    "protocol": "http",
+    "ip": "zio.etu.im",
+    "port": 9291,
+    "path": "api/v1"
+}
